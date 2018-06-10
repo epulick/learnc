@@ -22,3 +22,10 @@ int main(void)
 
     return 0;
 }
+
+//Function return, gives you the product if you got the dough
+
+int product(int x, int y)
+{
+    return (x * y);
+}
