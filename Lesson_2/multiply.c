@@ -9,7 +9,7 @@ int product(int x, int y);
 int main(void)
 {
     //Grab that first numbaaa
-    printf("Enter a number between1 and 100: ");
+    printf("Enter a number between 1 and 100: ");
     scanf("%d",&val1);
 
     //Grab that second numbaaa
